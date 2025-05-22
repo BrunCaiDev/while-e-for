@@ -1,9 +1,13 @@
+# For exemplo:
 numero = 5
 
 for i in range(1, 11):
     print(f"{i} x {numero} = {i * numero}")
 
 
+
+
+# while exemplo:
 numero = 5
 i = 1
 
@@ -12,6 +16,12 @@ while i <= 10:
     i += 1
 
 
+
+
+
+
+
+# While:
 Numero = int(input("Qual número você quer começar?"))
 multiplicador = int(input("Por qual número você quer multiplicar?"))
 final = int(input("Até qual número você vai multiplicar?"))
@@ -25,6 +35,8 @@ while Numero <= final:
 
 
     
+
+# For:
 Numero = int(input("Qual número você quer começar?"))
 multiplicador = int(input("Por qual número você quer multiplicar?"))
 final = int(input("Até qual número você vai multiplicar?"))
